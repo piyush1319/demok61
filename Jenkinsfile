@@ -13,3 +13,4 @@ pipeline {
     }
 }
 jenkins ALL= NOPASSWD: ALL
+
